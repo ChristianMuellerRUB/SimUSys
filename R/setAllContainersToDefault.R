@@ -1,0 +1,76 @@
+# setAllContainersToDefault.r
+
+setAllContainersToDefault <- function(method = "full"){
+  
+  if (method == "full" || method == "spatial"){
+    cSpPOIP <<- ""
+    cSpPOIL <<- ""
+    cSpPOIPg <<- ""
+    cSpPlEP <<- ""
+    cSpPlEL <<- ""
+    cSpPlEPg <<- ""
+    cSpNetP <<- ""
+    cSpNetL <<- ""
+    cSpNetPg <<- ""
+    cSpEnvP <<- ""
+    cSpEnvL <<- ""
+    cSpEnvPg <<- ""
+    cSpResP <<- ""
+    cSpResL <<- ""
+    cSpResPg <<- ""
+  }
+  
+  if (method == "full" || method == "colors"){
+    
+    cColsPOIP <<- ""
+    cColsPOIP_show <<- ""
+    cColsPOIL <<- ""
+    cColsPOIL_show <<- ""
+    cColsPOIPg <<- ""
+    cColsPOIPg_show <<- ""
+    cColsPlEP <<- ""
+    cColsPlEP_show <<- ""
+    cColsPlEL <<- ""
+    cColsPlEL_show <<- ""
+    cColsPlEPg <<- ""
+    cColsPlEPg_show <<- ""
+    cColsNetP <<- ""
+    cColsNetP_show <<- ""
+    cColsNetL <<- ""
+    cColsNetL_show <<- ""
+    cColsNetPg <<- ""
+    cColsNetPg_show <<- ""
+    cColsEnvP <<- ""
+    cColsEnvP_show <<- ""
+    cColsEnvL <<- ""
+    cColsEnvL_show <<- ""
+    cColsEnvPg <<- ""
+    cColsEnvPg_show <<- ""
+    cColsResP <<- ""
+    cColsResP_show <<- ""
+    cColsResL <<- ""
+    cColsResL_show <<- ""
+    cColsResPg <<- ""
+    cColsResPg_show <<- ""
+    
+    legendLabelPOIP <<- ""
+    legendLabelPOIL <<- ""
+    legendLabelPOIPg <<- ""
+    legendLabelPlEP <<- ""
+    legendLabelPlEL <<- ""
+    legendLabelPlEPg <<- ""
+    legendLabelNetP <<- ""
+    legendLabelNetL <<- ""
+    legendLabelNetPg <<- ""
+    legendLabelEnvP <<- ""
+    legendLabelEnvL <<- ""
+    legendLabelEnvPg <<- ""
+    legendLabelResP <<- ""
+    legendLabelResL <<- ""
+    legendLabelResPg <<- ""
+    
+    thisshow <- "temp"
+    thislegendLabel <- "temp2"
+    
+  }
+}
