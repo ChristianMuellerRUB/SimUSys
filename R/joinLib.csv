@@ -1,0 +1,51 @@
+fromTable;toShp;fromField;toField;outShp;rowindex
+Unfallhaeufigkeit_2014_countedEntities.csv;ABSCHNITTEAESTE_line.shp;AoA.Kennung;ABS;ABSCHNITTEAESTE_line_aufbereitet.shp;1
+Export_Abfrage_Verkehrsdaten_aufbereitet.xls;ABSCHNITTEAESTE_line.shp;AoA.Kennung;ABS;ABSCHNITTEAESTE_line_aufbereitet.shp;2
+Export_Abfrage_Verkehrsdaten einer Stra_e nach Dienststelle oder Verwaltung_2015-09-22_13-30.xls;ABSCHNITTEAESTE_line.shp;AoA.Kennung;ABS;ABSCHNITTEAESTE_line_aufbereitet.shp;3
+UNFAELLE_point_countedEntities.csv;ABSCHNITTEAESTE_line.shp;ABS;ABS;ABSCHNITTEAESTE_line_aufbereitet.shp;4
+VERKEHRSWERTE_line.dbf;ABSCHNITTEAESTE_line.shp;ABS;ABS;ABSCHNITTEAESTE_line_aufbereitet.shp;5
+StatistikStelleEinwohnerdaten.xls;Baubloecke.shp;Baublock;Baublock;EinwohnerDatenBaublock.shp;6
+FHWG_Baujahr_aufbereitet_2.xls;Baubloecke.shp;Baublock;BB;EinwohnerDatenBaublock.shp;7
+FHWG_Baujahr_aufbereitet_2.xls;Baubloecke.shp;Baublock;BB;EinwohnerDatenBaublock.shp;8
+FHWG_Einwohner_pro_Haushalt_aufbereitet.xls;Baubloecke.shp;Baublock;BB;EinwohnerDatenBaublock.shp;9
+FHWG_Haushalt_Anzahl_aufbereitet.xls;Baubloecke.shp;Baublock;BB;EinwohnerDatenBaublock.shp;10
+FHWG_Wohnung_NUTZUNG_aufbereitet.xls;Baubloecke.shp;Baublock;BB;EinwohnerDatenBaublock.shp;11
+Person_Altersstruktur_aufbereitet.xls;Baubloecke.shp;Baublock;BB;EinwohnerDatenBaublock.shp;12
+Person_Familienstand_aufbereitet.xls;Baubloecke.shp;Baublock;BB;EinwohnerDatenBaublock.shp;13
+Person_Geschlecht_aufbereitet.xls;Baubloecke.shp;Baublock;BB;EinwohnerDatenBaublock.shp;14
+Person_Migrationshintergrund_aufbereitet.xls;Baubloecke.shp;Baublock;BB;EinwohnerDatenBaublock.shp;15
+Person_Sozialversicherungspflichtige_Beschaeftigte_aufbereitet.xls;Baubloecke.shp;Baublock;BB;EinwohnerDatenBaublock.shp;16
+STP_Erwerbslose_aufbereitet.xls;Baubloecke.shp;Baublock;BB;EinwohnerDatenBaublock.shp;17
+STP_Sozialer_Status_aufbereitet2.xls;Baubloecke.shp;Baublock;BB;EinwohnerDatenBaublock.shp;18
+STP_Student_aufbereitet.xls;Baubloecke.shp;Baublock;BB;EinwohnerDatenBaublock.shp;19
+Verbrauchsdaten2012und2013.xls;Baubloecke.shp;Baublock;BB;EinwohnerDatenBaublock.shp;20
+Seite_43_159_MPH_Energiekosten_sm_131202_aufbereitet.xls;Baubloecke.shp;Baublock;BB;EinwohnerDatenBaublock.shp;21
+Seite_23_159_MPH_Stadtraumtypen_sm_131202_aufbereitet.xls;Baubloecke.shp;Baublock;BB;EinwohnerDatenBaublock.shp;22
+120813 Masterplan Klimaschutz Daten_2012_08_08_zuzug.xls;Baubloecke.shp;Baublock;BB;EinwohnerDatenBaublock.shp;23
+Verbrauchsstelle und Jahresverbrauch_Herten_aufbereitet.xlsx;Hauskoordinaten.shp;adress_ID;addressID;Hauskoordinaten_addInf.shp;24
+Rohdaten_komplett.xlsx;Hauskoordinaten.shp;adress_ID;addressID;Hauskoordinaten_addInf.shp;25
+Verbrauchsstelle und Jahresverbrauch_Herten_aufbereitet.xlsx;HU_HUExport_NW_alle.shp;adress_ID;addressID;HU_HUExport_NW_addInf.shp;26
+Rohdaten_komplett.xlsx;HU_HUExport_NW_alle.shp;adress_ID;addressID;HU_HUExport_NW_addInf.shp;27
+Sportverein_aufbereitet.xlsx;stadtgebiet.shp;JoinID;JoinID;stadtgebiet_addInf.shp;28
+STP_Pendler_aufbereitet.xls;stadtteile.shp;STATBEZ;STATBEZ;stadtteile_addInf.shp;29
+Stadtteile_Kreis_Re_aufbereitet.xlsx;Stadtteile_Kreis_Re.shp;Id;Id;Stadtteile_Kreis_Re_addInf.shp;30
+Unfallhaeufigkeit_2014.xls;str_a_RE_polyline.shp;AoA.Kennung;ABS;str_a_RE_polyline_addInf.shp;31
+Export_Abfrage_Verkehrsdaten_aufbereitet.xls;str_a_RE_polyline.shp;AoA.Kennung;ABS;str_a_RE_polyline_addInf.shp;32
+Export_Abfrage_Verkehrsdaten einer Stra_e nach Dienststelle oder Verwaltung_2015-09-22_13-30.xls;str_a_RE_polyline.shp;AoA.Kennung;ABS;str_a_RE_polyline_addInf.shp;33
+Unfallhaeufigkeit_2014_countedEntities.csv;str_a_RE_polyline.shp;AoA.Kennung;ABS;str_a_RE_polyline_addInf.shp;34
+Unfallhaeufigkeit_2014.xls;str_b_RE_polyline.shp;AoA.Kennung;ABS;str_b_RE_polyline_addInf.shp;35
+Export_Abfrage_Verkehrsdaten_aufbereitet.xls;str_b_RE_polyline.shp;AoA.Kennung;ABS;str_b_RE_polyline_addInf.shp;36
+Export_Abfrage_Verkehrsdaten einer Stra_e nach Dienststelle oder Verwaltung_2015-09-22_13-30.xls;str_b_RE_polyline.shp;AoA.Kennung;ABS;str_b_RE_polyline_addInf.shp;37
+Unfallhaeufigkeit_2014_countedEntities.csv;str_b_RE_polyline.shp;AoA.Kennung;ABS;str_b_RE_polyline_addInf.shp;38
+Unfallhaeufigkeit_2014.xls;str_k_RE_polyline.shp;AoA.Kennung;ABS;str_k_RE_polyline_addInf.shp;39
+Export_Abfrage_Verkehrsdaten_aufbereitet.xls;str_k_RE_polyline.shp;AoA.Kennung;ABS;str_k_RE_polyline_addInf.shp;40
+Export_Abfrage_Verkehrsdaten einer Stra_e nach Dienststelle oder Verwaltung_2015-09-22_13-30.xls;str_k_RE_polyline.shp;AoA.Kennung;ABS;str_k_RE_polyline_addInf.shp;41
+Unfallhaeufigkeit_2014_countedEntities.csv;str_k_RE_polyline.shp;AoA.Kennung;ABS;str_k_RE_polyline_addInf.shp;42
+Unfallhaeufigkeit_2014.xls;str_L_RE_polyline.shp;AoA.Kennung;ABS;str_L_RE_polyline_addInf.shp;43
+Export_Abfrage_Verkehrsdaten_aufbereitet.xls;str_L_RE_polyline.shp;AoA.Kennung;ABS;str_L_RE_polyline_addInf.shp;44
+Export_Abfrage_Verkehrsdaten einer Stra_e nach Dienststelle oder Verwaltung_2015-09-22_13-30.xls;str_L_RE_polyline.shp;AoA.Kennung;ABS;str_L_RE_polyline_addInf.shp;45
+Unfallhaeufigkeit_2014_countedEntities.csv;str_L_RE_polyline.shp;AoA.Kennung;ABS;str_L_RE_polyline_addInf.shp;46
+Unfallhaeufigkeit_2014.xls;StrassenNRW_alle.shp;AoA.Kennung;ABS;StrassenNRW_alle_addInf.shp;47
+Export_Abfrage_Verkehrsdaten_aufbereitet.xls;StrassenNRW_alle.shp;AoA.Kennung;ABS;StrassenNRW_alle_addInf.shp;48
+Export_Abfrage_Verkehrsdaten einer Stra_e nach Dienststelle oder Verwaltung_2015-09-22_13-30.xls;StrassenNRW_alle.shp;AoA.Kennung;ABS;StrassenNRW_alle_addInf.shp;49
+Unfallhaeufigkeit_2014_countedEntities.csv;StrassenNRW_alle.shp;AoA.Kennung;ABS;StrassenNRW_alle_addInf.shp;50

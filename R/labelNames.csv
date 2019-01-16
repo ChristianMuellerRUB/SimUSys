@@ -1,0 +1,214 @@
+varName;deutsch;english
+map;Karte;Map
+loadDataHeader;Daten laden;Load data
+provDat;Datenordner wählen;Select data folder
+modDatName;Name des Ordners eingeben, in dem Simulationsdaten gespeichert werden;Type the name of the folder to which simulation data will be saved
+topicSel;Themenbereich auswählen;Select topic
+analysisResFolder;Analysen und Ergebnisse;Analyses and Results
+networkFolder;Netzwerke;Networks
+planingEntitiesFolder;Planungseinheiten;Planning entities
+poisFolder;Punkte von Intresse;Points of Interest
+environFolder;Umwelt und Versorgung;Environment and basic services
+lyrSel;Themenauswahl;Topic selection
+selModFolder;Simulationsdatenordner angeben;Specify a directory in which the simulation data resides
+selModFolderExpl;Die Daten sollten für die Simulation aufbereitet in diesem Ordner vorliegen.;Data should already be prepared and ready to use for the simulation.
+okMes;Fertig;Ok
+mapLyr;Kartenlayer;Map layers
+Feuerwehr;Feuerwehr;Fire station
+Hydrant;Hydrant;Hydrant
+Katastrophenschutz;Katastrophenschutz;Disaster control
+Polizei;Polizei;Police station
+Rathaus;Rathaus;City hall
+RecyclinghofSammelstelle;Recyclinghof/Sammelstelle;Recylcing site
+OeffentlicheTrinkwasserstelle;Öffentliche Trinkwasserstelle;Public drinking water
+Apotheke;Apotheke;Pharmacy
+Arzt;Arzt;Medical doctor
+Krankenhaus;Krankenhaus;Hospital
+Pflegeeinrichtung;Pflegeeinrichtung;Healthcare center
+Berufsschule;Berufsschule;Vocational school
+Forschungsinstitut;Forschungsinstitut;Research facility
+Schule;Schule;School
+Hochschule;Hochschule;University
+Kindergarten;Kindergarten;Kindergarten
+Kita;Kita;Daycare center
+Tagesmutter;Tagesmutter;Daycare parent
+Volkshochschule;Volkshochschule;Adult education center
+Asylbewerberheim;Asylbewerberheim;Refugee shelter
+BeratungsstelleHilfswerk;Beratungsstelle/Hilfswerk;Social advice center
+Familienzentrum;Familienzentrum;Family center
+Jugendfreizeithaus;Jugendfreizeithaus;Youth center
+Seniorentreff;Seniorentreff;Senior citizen center
+Integrationshilfe;Integrationshilfe;Integration advice center
+Studentenwohnheim;Studentenwohnheim;Students dormitory
+Verein;Verein;Association
+Fernbahnhof;Fernbahnhof;Train station
+Fernbusbahnhof;Fernbusbahnhof;Bus station
+Flughafen;Flughafen;Airpot
+PKWParkplatz;PKW-Parkplatz;Parking lot
+wichtigeVerkehrsengstelle;wichtige Verkehrsengstelle;Important traffic bottleneck
+Bushaltestelle;Bushaltestelle;Bus stop
+UBahnTramHaltestelle;U-Bahn-/Tram-Haltestelle;Subway/Tram stop
+Fahrradparkplatz;Fahrradparkplatz;Bicycle parking
+FahrradLeihstation;Fahrrad-Leihstation;Bicycle renting
+CarSharingStation;Car-Sharing-Station;Car shring station
+SundRegionalBahnhof;S-/Regional-Bahnhof;Regional train station
+Elektroladestation;Elektroladestation;Electric mobility recharge station
+Tankstelle;Tankstelle;Gas station
+Taxistand;Taxistand;Cab station
+Aussichtspunkt;Aussichtspunkt;View point
+BarKneipe;Bar/Kneipe;Bar/Pub
+BibliothekBuchhandlung;Bibliothek/Buchhandlung;Library/Book store
+Club;Club;Club
+Friedhof;Friedhof;Cementery
+Galerie;Galerie;Gallery
+Gotteshaus;Gotteshaus;Church/Religious facility
+JagdundFischereigebiet;Jagd-/Fischereigebiet;Hunting/Fishing zone
+Kino;Kino;Cinema
+Museum;Museum;Museum
+Park;Park;Park
+RestaurantCafe;Restaurant/Café;Restaurant/Café
+SchwimmbadBadestelle;Schwimmbad/Badestelle;Swiming pool/site
+Sehenswuerdigkeit;Sehenswürdigkeit;Sight
+Spielplatz;Spielplatz;Playground
+Sportstaette;Sportstätte;Sports
+Theater;Theater;Theater
+Tiergehege;Tiergehege;Animal park
+Touristeninformation;Touristeninformation;Tourist information
+Veranstaltungsort;Veranstaltungsort;Event location
+Weihnachtsmarkt;Weihnachtsmarkt;Christmas market
+Ausgleichsflaeche;Ausgleichsfläche;Ecological substitution area
+Schutzgebiet;Schutzgebiet;Protected natural area
+HotelHostel;Hotel/Hostel;Hotel/Hostel
+Wellness;Wellness;Wellness
+Baecker;Bäcker;Bakery
+Bank;Bank;Bank
+EinkaufszentrumSonstigeShopping;Einkaufszentrum/Shopping;Mall/Shopping
+Friseur;Friseur;Hairdresser
+Geldautomat;Geldautomat;ATM
+Kiosk;Kiosk;Kiosk
+Post;Post;Post office
+Reinigung;Reinigung;Cleaning service
+SchusterSchluesseldienst;Schuster/Schlüsseldienst;Shoemaker/Locksmith
+Wochenmarkt;Wochenmarkt;Weeky market
+Lebensmittelgeschaeft;Lebensmittelgeschäft;Grocery stores
+Anwalt;Anwalt;Lawyer
+Finanzberater;Finanzberater;Financial consultant
+Tierarzt;Tierarzt;Vetinarian
+Rotlicht;Rotlicht;Red light
+Gluecksspiel;Glücksspiel;Gambling
+OeffentlicheToiletten;Öffentliche Toiletten;Public toilete
+Videothek;Videothek;Video store
+Fahrschule;Fahrschule;Driving school
+NagelstudioKosmetik;Nagelstudio/Kosmetik;Nail bar/cosmetics
+HandwerkVerschiedene;Handwerk;Handcraft
+Autohandel;Autohandel;Car dealer
+Bestattung;Bestattung;Motician
+OptikerHoergeraete;Optiker/Hörgeräte;Optics/Hearing devices
+Schneider;Schneider;Tailor
+POI_Gitter;Zusammenfassung: Points of Interest;Grid: Points of Interest
+Untersuchungsgebiet;Untersuchungsgebiet;Study area
+Kommune;Kommune;Municipality
+Postleitzahlgebiet;Postleitzahlgebiet;ZIP code region
+Stadtteil;Stadtteil;City district
+StatistischeBezirkWahlbezirk;Statistische Bezirke/Wahlbezirk;Statistical/Vote district
+Richtwertzone;Richtwertzone;Ground value zone
+Quartier;Quartier;City quartet
+Bauleitplanung;Bauleitplanung;Land use planning
+Baublock;Baublock;Building block
+Adresse;Adresse;Address
+Adresskoordinate;Adresskoordinate;Address coordinate
+Person;Person;Person
+PlanungsEinheiten_Gitter;Zusammenfassung: Planunungseinheiten;Grid: Planning entities
+Ampel;Ampel;Stop light
+Dauerbaustellen;Dauerbaustellen;Construction site
+Barrieren;Barrieren;Barrier
+Fahrradwegenetz;Fahrradwegenetz;Bicycle network
+FussWanderwege;Fuß-/Wanderwege;Pedestrian network
+LiniennetzOePNV;Liniennetz des ÖPNV;Public transportation network
+Strassennetz;Straßennetz;Streets network
+Leitung;Leitung;Line
+Netzwerke_Gitter;Zusammenfassung: Netzwerke;Grid: Networks
+Trinkwasserleitung;Trinkwasserleitung;Drinking water pipeline
+Abwasserleitung;Abwasserleitung;Sewage pipeline
+Gasleitung;Gasleitung;Gas pipeline
+Fernwaemeleitung;Fernwämeleitung;District heating pipeline
+Stromleitung;Stromleitung;Electricity pipeline
+Breitbandleitung;Breitbandleitung;Internet pipeline
+Unfall;Unfall;Accident
+Biogasanlage;Biogasanlage;Biogas plant
+KraftwerkFabrik;Kraftwerk/Fabrik;Power plant/factory
+Deponie;Deponie;Landfill
+Klaerschlammausbringung;Klärschlammausbringung;Sludge disposal
+Klaerwerk;Klärwerk;Waste water treatment plant
+Kraftwaermekopplungsanlagen;Kraftwärmekopplungsanlagen;Cogeneration system
+Solaranlage;Solaranlage;Solar energy
+Pumpstation;Pumpstation;Pumping station
+Windkraftanlage;Windkraftanlage;Wind turbine
+Fliessgewaesser;Fließgewässer;Rivers and streams
+StehendeGewaesser;Stehende Gewässer;Lakes and ponds
+Landnutzung;Landnutzung;Landuse
+UmweltVersorgung_Gitter;Gitter: Umwelt/Versorgung;Grid: Environment/Basic services
+Blockheizkraftwerk;Blockheizkraftwerk;Communal heating plant
+KraftWaermeKopplungsanlagen;Kraft-Wärme-Kopplungsanlagen;Cogeneration system
+Allee;Allee;Green avenues
+Laermbelastung;Lärmbelastung;Noise
+Luftschadstoffe;Luftschadstoffe;Airborne pollutant
+predefProvPath;Vorbereitete Daten für eine Modellstadt nutzten;Use prepared data for a model city
+selPrepModExpl;Für diese Modellstädte liegen bereits aufbereitete Daten vor;Data is already prepared and ready to use for these model cities
+Choice1;Entweder…;You may…
+Choice2;…oder…;…or…
+selectedModFolder;Folgender ausgewählter Datenordner enthält vorbereitete Daten;The following selected directory contains prepared data
+showAsp;Aspekt darstellen…;Show issue…
+loading;Lade…;Loading…
+topic;Themenfeld;Topic
+noVal;kein Wert;no value
+selLanguage;change to English;nach Deutsch wechseln
+rules;Regeln;Rules
+depen;Räumlich explizite Zusammenhänge;Spatially explicit relations
+rule;Regel;Rule
+yVarName;Beeinflusste Größe;Dependent parameter
+xVarName;Beeinflussende Größen;Independent parameters
+derW;Aus Daten berechnen;Derive from data
+Schutzgebietsflaeche;Schutzgebietsfläche;Protected natural area
+Gruenflaeche;Gruenfläche;Green area
+Wildgehegeflaeche;Wildgehegefläche;Wild life area
+Trinkwasserleitung;Trinkwasserleitung;Drinking water pipeline
+Abwasserleitung;Abwasserleitung;Sewage pipeline
+Gasleitung;Gasleitung;Gas pipeline
+Fernwaemeleitung;Fernwämeleitung;District heating pipeline
+Stromleitung;Stromleitung;Electrical power line
+Breitbandleitung;Breitbandleitung;Internet line
+trherten;wie Herten;like Herten
+trherdecke;wie Herdecke;like Herdecke
+trherdeckeinnen;wie Herdecke (Innenstadt);like Herdecke (city center)
+trbochum;wie Bochum;like Bochum
+totLabel;ges. in Planungseinheit;total number in planning entity
+relPerson;der Einwohner in P.E.;of citizens in p.e.
+addRule;Regel hinzufügen;add rule
+rmvRule;letzte Regel entfernen;remove last rule
+rmvSlider;letzte beinflussende Größe entfernen;remove last independent parameter
+plsChoose;Bitte wählen…;Please choose…
+addText;Hinzufügen…;Add…
+gamepoints;Punktestand;Points
+gameactionpoints;Aktionspunkte;Action points
+timestep;Zeitschritt;Time step
+startGame;Spiel starten;Start game
+endGame;Spiel beenden;End game
+nextround;Nächste Runde;Next round
+createFacility;Einrichtung eröffnen;Create new facility
+dismiss;Verwerfen;Dismiss
+noSufAP_title;Nicht genügend Aktionspunkte vorhanden;Not sufficient action points available
+noSufAP;Die Aktionspunkte reichen für diese Aktion nicht aus. Die Zufriedenheit der Bürger schränkt den planerischen Spielraum ein. Versuche die Raumattraktivität für möglichst viele Bürger_innen zu erhöhen, um deren Zufriedenheit zu steigern. Dadurch erhöht sich der Punktestand, was mehr planerische Maßnahmen zulässt. Versuche es in der nächsten Runde erneut!;There are not sufficient action points available for this action to be carried out. The contention of the citizens contrain the allowance for planning. Try to increase the spatial attractiveness for as many citizens as possible. This will increase your points which will allow for more planning measures to be carried out. Try again in the next round!
+close;Schließen;Dismiss
+spatialImplicit;Räumlich implizite Zusammenhänge;Spatially implicit relations
+settings;Einstellungen;Settings
+basemap;Hintergrundkarte;Basemap
+gameOver;GAME OVER! Die Aktionspunkte sind vollständig aufgebraucht. Es gibt keinen planerischen Spielraum mehr. Die Zufriedenheit der Bürger schränkt den planerischen Spielraum ein. Versuche die Raumattraktivität für möglichst viele Bürger_innen zu erhöhen, um deren Zufriedenheit zu steigern. Dadurch erhöht sich der Punktestand, was mehr planerische Maßnahmen zulässt. Versuche es im nächsten Spiel erneut!;GAME OVER! There are no action points left. There are no planning measures that can be conducted. The contention of the citizens contrain the allowance for planning. Try to increase the spatial attractiveness for as many citizens as possible. This will increase your points which will allow for more planning measures to be carried out. Try again in the next game!
+gameOver_title;Game over!;Game over!
+NetzwerkeAggregiert;Netzwerkdaten;Network data
+regressionError;Die Berechnung der Einflüsse aus der Datengrundlage hat leider nicht geklappt. Wahrscheinlich liegt das daran, dass eine sehr große Datenmenge den armen Computer überansprucht. Probiere es mit einem mächtigeren Computer oder versuche die Anzahl der beeinflussenden Größen zu reduzieren. Am unteren Bildschirmrand befindet sich eine Schaltfläche, mit der man beeinflussende Größen entfernen kann.;Unfortunately, the calculation of influences based on the provided data did not work. Probably the reason for this is that huge data volumes overstrain the pitiful computer. Try to use a more mighty machine or reduce the number of influencing parameters. At the bottom of the page you'll find a button which can be used to remove influencing parameters.
+regressionErrorTitel;Der Computer kann nicht mehr : (;The computer is stumped : (
+scores;Spielstand;Game Score
+local;lokal;local
+pop;Bev.;pop.
+perfSim;Führe Simulation durch…;Performing simulation…

@@ -1,0 +1,173 @@
+varName;deutsch;english
+map;Karte;Map
+loadDataHeader;Daten laden;Load data
+provDat;Datenordner wÑhlen;Select data folder
+modDatName;Name des Ordners eingeben, in dem Simulationsdaten gespeichert werden;Type name of the folder to which simulation data will be saved
+topicSel;Themenbereich auswÑhlen;Select topic
+analysisResFolder;Analysen und Ergebnisse;Analyses and Results
+networkFolder;Netzwerke;Networks
+planingEntitiesFolder;Planungseinheiten;Planning entities
+poisFolder;Punkte von Intresse;Points of Interest
+environFolder;Umwelt und Versorgung;Environment and basic services
+lyrSel;Themenauswahl;Topic selection
+selModFolder;Simulationsdatenordner angeben;Specify simulation data folder
+selModFolderExpl;Die Daten sollten fÅr die Simulation aufbereitet in diesem Ordner vorliegen.;Data should allready be prepared and ready to use in the simulation.
+okMes;Fertig;Ok
+mapLyr;Kartenlayer;Map layers
+Feuerwehr;Feuerwehr;needsTranslation
+Hydrant;Hydrant;needsTranslation
+Katastrophenschutz;Katastrophenschutz;needsTranslation
+Polizei;Polizei;needsTranslation
+Rathaus;Rathaus;needsTranslation
+RecyclinghofSammelstelle;Recyclinghof/Sammelstelle;needsTranslation
+OeffentlicheTrinkwasserstelle;ôffentliche Trinkwasserstelle;needsTranslation
+Apotheke;Apotheke;needsTranslation
+Arzt;Arzt;needsTranslation
+Krankenhaus;Krankenhaus;needsTranslation
+Pflegeeinrichtung;Pflegeeinrichtung;needsTranslation
+Berufsschule;Berufsschule;needsTranslation
+Forschungsinstitut;Forschungsinstitut;needsTranslation
+Schule;Schule;needsTranslation
+Hochschule;Hochschule;needsTranslation
+Kindergarten;Kindergarten;needsTranslation
+Kita;Kita;needsTranslation
+Tagesmutter;Tagesmutter;needsTranslation
+Volkshochschule;Volkshochschule;needsTranslation
+Asylbewerberheim;Asylbewerberheim;needsTranslation
+BeratungsstelleHilfswerk;Beratungsstelle/Hilfswerk;needsTranslation
+Familienzentrum;Familienzentrum;needsTranslation
+Jugendfreizeithaus;Jugendfreizeithaus;needsTranslation
+Seniorentreff;Seniorentreff;needsTranslation
+Integrationshilfe;Integrationshilfe;needsTranslation
+Studentenwohnheim;Studentenwohnheim;needsTranslation
+Verein;Verein;needsTranslation
+Fernbahnhof;Fernbahnhof;needsTranslation
+Fernbusbahnhof;Fernbusbahnhof;needsTranslation
+Flughafen;Flughafen;needsTranslation
+PKWParkplatz;PKW-Parkplatz;needsTranslation
+wichtigeVerkehrsengstelle;wichtige Verkehrsengstelle;needsTranslation
+Bushaltestelle;Bushaltestelle;needsTranslation
+UBahnTramHaltestelle;U-Bahn-/Tram-Haltestelle;needsTranslation
+Fahrradparkplatz;Fahrradparkplatz;needsTranslation
+FahrradLeihstation;Fahrrad-Leihstation;needsTranslation
+CarSharingStation;Car-Sharing-Station;needsTranslation
+SundRegionalBahnhof;S-/Regional-Bahnhof;needsTranslation
+Elektroladestation;Elektroladestation;needsTranslation
+Tankstelle;Tankstelle;needsTranslation
+Taxistand;Taxistand;needsTranslation
+Aussichtspunkt;Aussichtspunkt;needsTranslation
+BarKneipe;Bar/Kneipe;needsTranslation
+BibliothekBuchhandlung;Bibliothek/Buchhandlung;needsTranslation
+Club;Club;needsTranslation
+Friedhof;Friedhof;needsTranslation
+Galerie;Galerie;needsTranslation
+Gotteshaus;Gotteshaus;needsTranslation
+JagdundFischereigebiet;Jagd-/Fischereigebiet;needsTranslation
+Kino;Kino;needsTranslation
+Museum;Museum;needsTranslation
+Park;Park;needsTranslation
+RestaurantCafe;Restaurant/CafÇ;needsTranslation
+SchwimmbadBadestelle;Schwimmbad/Badestelle;needsTranslation
+Sehenswuerdigkeit;SehenswÅrdigkeit;needsTranslation
+Spielplatz;Spielplatz;needsTranslation
+Sportstaette;SportstÑtte;needsTranslation
+Theater;Theater;needsTranslation
+Tiergehege;Tiergehege;needsTranslation
+Touristeninformation;Touristeninformation;needsTranslation
+Veranstaltungsort;Veranstaltungsort;needsTranslation
+Weihnachtsmarkt;Weihnachtsmarkt;needsTranslation
+Ausgleichsflaeche;AusgleichsflÑche;needsTranslation
+Schutzgebiet;Schutzgebiet;needsTranslation
+HotelHostel;Hotel/Hostel;needsTranslation
+Wellness;Wellness;needsTranslation
+Baecker;BÑcker;needsTranslation
+Bank;Bank;needsTranslation
+EinkaufszentrumSonstigeShopping;Einkaufszentrum/Shopping;needsTranslation
+Friseur;Friseur;needsTranslation
+Geldautomat;Geldautomat;needsTranslation
+Kiosk;Kiosk;needsTranslation
+Post;Post;needsTranslation
+Reinigung;Reinigung;needsTranslation
+SchusterSchluesseldienst;Schuster/SchlÅsseldienst;needsTranslation
+Wochenmarkt;Wochenmarkt;needsTranslation
+Lebensmittelgeschaeft;LebensmittelgeschÑft;needsTranslation
+Anwalt;Anwalt;needsTranslation
+Finanzberater;Finanzberater;needsTranslation
+Tierarzt;Tierarzt;needsTranslation
+Rotlicht;Rotlicht;needsTranslation
+Gluecksspiel;GlÅcksspiel;needsTranslation
+OeffentlicheToiletten;ôffentliche Toiletten;needsTranslation
+Videothek;Videothek;needsTranslation
+Fahrschule;Fahrschule;needsTranslation
+NagelstudioKosmetik;Nagelstudio/Kosmetik;needsTranslation
+HandwerkVerschiedene;Handwerk;needsTranslation
+Autohandel;Autohandel;needsTranslation
+Bestattung;Bestattung;needsTranslation
+OptikerHoergeraete;Optiker/HîrgerÑte;needsTranslation
+Schneider;Schneider;needsTranslation
+POI_Gitter;Zusammenfassung: Points of Interest;needsTranslation
+Untersuchungsgebiet;Untersuchungsgebiet;needsTranslation
+Kommune;Kommune;needsTranslation
+Postleitzahlgebiet;Postleitzahlgebiet;needsTranslation
+Stadtteil;Stadtteil;needsTranslation
+StatistischeBezirkWahlbezirk;Statistische Bezirke/Wahlbezirk;needsTranslation
+Richtwertzone;Richtwertzone;needsTranslation
+Quartier;Quartier;needsTranslation
+Bauleitplanung;Bauleitplanung;needsTranslation
+Baublock;Baublock;needsTranslation
+Adresse;Adresse;needsTranslation
+Adresskoordinate;Adresskoordinate;needsTranslation
+Person;Person;needsTranslation
+PlanungsEinheiten_Gitter;Zusammenfassung: Planunungseinheiten;needsTranslation
+Ampel;Ampel;needsTranslation
+Dauerbaustellen;Dauerbaustellen;needsTranslation
+Barrieren;Barrieren;needsTranslation
+Fahrradwegenetz;Fahrradwegenetz;needsTranslation
+FussWanderwege;Fu·-/Wanderwege;needsTranslation
+LiniennetzOePNV;Liniennetz des ôPNV;needsTranslation
+Strassennetz;Stra·ennetz;needsTranslation
+Leitung;Leitung;needsTranslation
+Netzwerke_Gitter;Zusammenfassung: Netzwerke;needsTranslation
+Biogasanlage;Biogasanlage;needsTranslation
+KraftwerkFabrik;Kraftwerk/Fabrik;needsTranslation
+Deponie;Deponie;needsTranslation
+Klaerschlammausbringung;KlÑrschlammausbringung;needsTranslation
+Klaerwerk;KlÑrwerk;needsTranslation
+Kraftwaermekopplungsanlagen;KraftwÑrmekopplungsanlagen;needsTranslation
+Solaranlage;Solaranlage;needsTranslation
+Pumpstation;Pumpstation;needsTranslation
+Windkraftanlage;Windkraftanlage;needsTranslation
+Fliessgewaesser;Flie·gewÑsser;needsTranslation
+StehendeGewaesser;Stehende GewÑsser;needsTranslation
+Landnutzung;Landnutzung;needsTranslation
+UmweltVersorgung_Gitter;Zusammenfassung: Umwelt und Versorgung;needsTranslation
+predefProvPath;Vorbereitete Daten fÅr eine Modellstadt nutzten;Use prepared data for a model city
+selPrepModExpl;FÅr diese ModellstÑdte liegen bereits aufbereitete Daten vor;Prepared data is already prepared and ready to use for these model cities
+Choice1;Entweder?;You may?
+Choice2;?oder?;?or..
+selectedModFolder;AusgewÑhlter Datenordner;Selected data folder
+showAsp;Aspekt darstellen?;Show issue?
+loading;Lade?;Loading?
+topic;Themenfeld;Topic
+noVal;kein Wert;no value
+selLanguage;change to English;nach Deutsch wechseln
+rules;Regeln;Rules
+depen;AbhÑngigkeiten (Dependenzen);Dependencies
+rule;Regel;Rule
+yVarName;Beeinflusste Grî·e;Dependent parameter
+xVarName;Beeinflussende Grî·en;Independent parameters
+derW;Aus Daten berechnen;Derive from data
+Schutzgebietsflaeche;SchutzgebietsflÑche;needsTranslation
+Gruenflaeche;GruenflÑche;needsTranslation
+Wildgehegeflaeche;WildgehegeflÑche;needsTranslation
+Trinkwasserleitung;Trinkwasserleitung;needsTranslation
+Abwasserleitung;Abwasserleitung;needsTranslation
+Gasleitung;Gasleitung;needsTranslation
+Fernwaemeleitung;FernwÑmeleitung;needsTranslation
+Stromleitung;Stromleitung;needsTranslation
+Breitbandleitung;Breitbandleitung;needsTranslation
+trherten;wie Herten;like Herten
+trherdecke;wie Herdecke;like Herdecke
+trbochum;wie Bochum;like Bochum
+totLabel;ges. in Planungseinheit;total number in planning entity
+relPerson;der Einwohner in P.E.;of citizens in p.e.
